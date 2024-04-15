@@ -1,2 +1,2 @@
-# Python
-Projetos básicos desenvolvidos em Python a partir de curso de ciência de dados
+#     Data-Analysis-Python
+Repositório dedicado a exibição de pequenas analises de dados realizadas em python, utilizando a biblioteca bandas
